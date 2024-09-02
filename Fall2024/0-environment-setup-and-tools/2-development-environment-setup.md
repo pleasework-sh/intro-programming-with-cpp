@@ -6,8 +6,10 @@ One of our first assignments is going to be setting up our development environme
 For consistency purposes we will be using Ubuntu (for Windows Hosts and Intel Mac Hosts) or Kali Linux (for Apple Silicon m-chip hosts). We will set up virtual machines for our development environments. 
 
 > [!NOTE]
-> B-but, what if I run bare-metal Linux already???????
-> This assumes that you have no prior knowledge of any sort of Linux operating system. This also assumes you are running a Windows or MacOS host, which is typical for new students. If you are already a Linux power user, feel free to JMP straight to programming portion of the course. If this is the case for you, you are probably already exposed to the majority of the concepts taught here and you just need this course for college credit. If this is the case, feel free to reach out to me so we can accelerate you through the course if you wish. 
+> **B-but, what if I run bare-metal Linux already???????**
+>
+> 
+This assumes that you have no prior knowledge of any sort of Linux operating system. This also assumes you are running a Windows or MacOS host, which is typical for new students. If you are already a Linux power user, feel free to JMP straight to programming portion of the course. If this is the case for you, you are probably already exposed to the majority of the concepts taught here and you just need this course for college credit. If this is the case, feel free to reach out to me so we can accelerate you through the course if you wish. 
 
 ## ... back to the main course
 Typically you are not exposed to virtual machines in an intro programming course, but another goal of the course is to introduce you to tools that you will have roughly a 90% chance of running into again. By introducing you to these tools early and having you struggle with them, you will be more knowledgeable and ahead of some of your peers. For many of us, the end goal of our degrees is to get a job in the industry, so we shall practice with industry tools. (Full disclaimer, every company may have a different set of tools that you may use as a software developer - some software engineers may not use virtual machines at all. But, using Linux virtual machines will help you gain exposure to the command line, which you will definitely run into in your career).
