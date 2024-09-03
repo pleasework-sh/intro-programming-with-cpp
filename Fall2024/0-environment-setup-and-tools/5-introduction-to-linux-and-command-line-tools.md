@@ -19,6 +19,8 @@ In order to push code from your local repository into GitHub (the remote reposit
 
 Log into your VM. 
 
+Open the terminal.
+
 Run the following command, replacing the placeholder email with your own:
 ```
 ssh-keygen -t ed25519 -C "your_email@example.com"
