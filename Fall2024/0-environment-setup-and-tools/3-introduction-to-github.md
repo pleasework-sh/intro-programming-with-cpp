@@ -8,6 +8,4 @@ Make it a habit to store all of your code in GitHub moving forward so in the fut
 ## GitHub Training
 Complete the GitHub training [here](https://github.com/skills/introduction-to-github).
 
-# Create a private GitHub repository and share it with me 
-After you create your GitHub account, you have the option of creating and sharing a private GitHub repository. 
 
