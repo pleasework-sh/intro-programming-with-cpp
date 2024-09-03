@@ -22,4 +22,8 @@ If you feel as though you are a more advanced student and would like to accelera
 # Late policy
 For accountability reasons, I expect that you try your best to turn in assignments on time. Of course, life happens. If you feel as though you cannot turn in an assignment on time please email me. I tend to be a bit more lax with the late policy in terms of point deduction, but if late assignments are a recurring trend or if you turn in an assignment 2+ weeks late I will have to deduct late points. 
 
+# Assignment submission
+Unless otherwise stated, please submit a file containing:
+- a screenshot of your code running
+- a link to the file in your github repository
 
