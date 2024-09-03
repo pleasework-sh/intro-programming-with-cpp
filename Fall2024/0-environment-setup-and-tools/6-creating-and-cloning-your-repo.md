@@ -8,7 +8,7 @@ Name the repository "CSC114-Fall2024", add a description, set the visibility to 
 
 Scroll down and click "Create Repository".
 
-![text](../../image/6-creating-and-cloning-your-repo-1.png)
+![text](../image/6-creating-and-cloning-your-repo-1.png)
 
 ![text](../../image/6-creating-and-cloning-your-repo-2.md)
 
