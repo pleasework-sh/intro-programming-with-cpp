@@ -36,7 +36,11 @@ Please download and install the appropriate hypervisor for your operating system
 
 See the download links below: 
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [Ubuntu Desktop ISO file](https://ubuntu.com/download/desktop)
 - [UTM](https://mac.getutm.app/)
+- [Kali Linux ARM ISO File - click on Apple Silicon ARM64 installer image](https://www.kali.org/get-kali/#kali-installer-images)
+
+
 
 # For setting up your VM, please refer to the assignment in the course in D2L
 
