@@ -35,6 +35,7 @@ Click the green "Code" button and copy the URL under SSH.
 Open your VM and run:
 
 ```
+cd ~
 git clone <your SSH URL here>
 ```
 
