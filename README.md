@@ -3,6 +3,8 @@ Made for CSC114 @ Delaware Technical Community College
 
 Teaches you introductory concepts in programming. We are using C++ because it is a University of Delaware transfer credit requirement.
 
+Disclaimer that this does not go into the fun nuances of C++. This is meant to get you started with programming concepts. Please refer to other resources for deeper dives into C++. I am by no means a C++ expert!
+
 # Semesters taught
 ## Summer 2024 (no notes available)
 
