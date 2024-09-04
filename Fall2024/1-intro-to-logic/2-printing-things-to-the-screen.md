@@ -119,3 +119,5 @@ int main() {
 }
 ```
 
+## Lab 3: Make it pretty
+
