@@ -80,9 +80,8 @@ int main() {
 }
 ```
 
-## Assignment 1: Comments
-> [!TIP]  
-> Take the file below, add your own comments (whatever you would like). Try running the program and see what happens. Name it 1-comments.cpp
+## Lab 1: Comments
+Take the file below, add your own comments (whatever you would like). Try running the program and see what happens. Name it 1-comments.cpp
 
 ```c++
 // write your comments wherever you want.
@@ -100,11 +99,23 @@ As a reminder, this is how you compile and run programs.
 gedit 1-comments.cpp
 # ... make your edits and save them in gedit
 
-g++ 1-comments.cpp -o comments
+g++ 1-comments.cpp -o 1-comments
 chmod +x comments
 ./comments
 ```
 
-Craft a word document with a link to your code and a screenshot of the code running. What is different about program execution? 
+## Lab 2: Moving past hello world
+Take the file below and see if you can change it from printing "Hello, world!" to a message of your choosing. 
 
-If you said nothing, that's right! Comments are meant to be ignored, but are helpful for us programmers to understand what is going on in our code. For our super simple hello world programs, comments might not be necessary, but they become more useful as what we write becomes more complex.
+Run and compile the file. Save this file as 2-custom.cpp
+
+```c++
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, world!";
+    return 0;
+}
+```
+
