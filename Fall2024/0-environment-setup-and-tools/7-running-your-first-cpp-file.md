@@ -33,6 +33,11 @@ int main() {
 # Running your first cpp file
 Now that you've finished the long arduous process of setting up your development environment, you are finally ready to run your first file.
 
+If you are getting an error when trying to run g++ run the following commands:
+```
+sudo apt-get update
+sudo apt-get install g++
+```
 Run the following commands:
 ```
 cd <folder of your repository>

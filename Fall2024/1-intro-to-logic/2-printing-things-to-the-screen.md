@@ -119,5 +119,8 @@ int main() {
 }
 ```
 
-## Lab 3: Make it pretty
+## Lab 3 - CHALLENGE (Easy): Make it pretty
+```c++
+
+```
 
