@@ -69,6 +69,11 @@ upon program execution.
 int main() {
 
     // this is the line that prints "Hello, world!" to our screen.
+    // we use cout
+    // followed by a <<
+    // and then our desired text to print to the screen. 
+    // note that our desired text is wrapped in double quotes
+    // then we end off the line with a semicolon
     cout << "Hello, world!";
 
     // this is the program exit code.
@@ -120,7 +125,27 @@ int main() {
 ```
 
 ## Lab 3 - CHALLENGE (Easy): Make it pretty
-```c++
 
+Create a file from the code below called pretty.cpp. Compile and run it and see what happens. 
+
+Our code runs, but it doesn't look the most readable.
+
+For each `cout` statement, can you find a way to print a NEWLINE character so our output looks prettier? 
+
+You will get full points if you find both ways to print the newline character.
+
+If you are doing this during the live class, I'm giving you 15 minutes.
+```c++
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, world!";
+    cout << "I love to code!";
+    cout << "For what is there to live for, if I cannot code?";
+    return 0;
+}
 ```
+
+
 
