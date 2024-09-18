@@ -48,8 +48,10 @@ cd module1
 
 gedit helloworld.cpp
 ```
+Once you see the file open in your text editor, go ahead and copy the file contents above from the section "Contents of the helloworld.cpp file".
 
-Save the file after pasting it into gedit.
+Save the file after pasting it into gedit. Close the file.
+
 
 Note that you need to close the helloworld.cpp file. Then you need to open your terminal and run the following commands.
 ```
