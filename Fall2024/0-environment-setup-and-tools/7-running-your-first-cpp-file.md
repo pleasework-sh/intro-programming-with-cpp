@@ -17,7 +17,7 @@ sudo apt-get install gedit
 You may be prompted to enter your user password.
 
 # Contents of the helloworld.cpp file
-Note the contents of this file. You will need to paste it into gedit later before you run it. 
+Note the contents of this file. You will need to paste it into gedit later before you run and compile the file.
 
 You can copy and paste it directly from below. 
 ```c++
@@ -38,7 +38,7 @@ If you are getting an error when trying to run g++ run the following commands:
 sudo apt-get update
 sudo apt-get install g++
 ```
-Run the following commands:
+Run the following commands in the terminal.
 ```
 cd <folder of your repository>
 
@@ -51,6 +51,7 @@ gedit helloworld.cpp
 
 Save the file after pasting it into gedit.
 
+Note that you need to close the helloworld.cpp file. Then you need to open your terminal and run the following commands.
 ```
 g++ helloworld.cpp -o hello
 chmod +x hello
