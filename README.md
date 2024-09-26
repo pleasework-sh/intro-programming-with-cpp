@@ -8,5 +8,6 @@ Disclaimer that this does not go into the fun nuances of C++. This is meant to g
 # Semesters taught
 ## Summer 2024 (no notes available)
 
+## This is a sample change
 ## Fall 2024
 These readings are meant to be a supplement, not necessarily a replacement for the lectures. If you miss class, please review the recording you missed to get the full picture of the material we are going over.
